@@ -6,3 +6,5 @@
 ## 2 - class
 ## 3 - class extend
 ## 4 - modules with name
+## 5 - default export
+## 6 - block scope
